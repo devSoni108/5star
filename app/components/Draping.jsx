@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { IoIosArrowDropleft, IoIosArrowDropright } from 'react-icons/io';
 import { DrapingData } from './DrapingData';
 
-const Stages = () => {
+const Draping = () => {
   const [current, setCurrent] = useState(0);
   const length = DrapingData.length;
   const imagesPerPage = 3; // Number of images to display at a time
@@ -54,4 +54,4 @@ const Stages = () => {
   );
 };
 
-export default Stages;
+export default Draping;

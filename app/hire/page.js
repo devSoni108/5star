@@ -7,7 +7,7 @@ import { StagesData } from '../components/StagesData'
 import Draping from '../components/Draping'
 import { DrapingData } from '../components/DrapingData'
 import TableSetting from '../components/TableSetting'
-import { TabeSettingData } from '../components/TableSettingsData'
+import { TableSettingData } from '../components/TableSettingData'
 
 const hire = () => {
   return (
@@ -20,7 +20,7 @@ const hire = () => {
       <Centerpieces slides={CenterpiecesData}/>
       <Stages slides={StagesData} />
       <Draping slides={DrapingData} />
-      <TableSetting slides={TabeSettingData} />
+      <TableSetting slides={TableSettingData} />
       <Footer />
     </div>
   )

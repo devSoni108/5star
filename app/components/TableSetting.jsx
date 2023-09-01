@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import { IoIosArrowDropleft, IoIosArrowDropright } from 'react-icons/io';
-import { TableSettingData } from './TableSettingsData';
+import { TableSettingData } from './TableSettingData';
 
 const TableSetting = () => {
   const [current, setCurrent] = useState(0);

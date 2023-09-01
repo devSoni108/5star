@@ -1,7 +1,7 @@
 import stage1 from '../assets/stages/Carved-crystal-1.jpg'
-
-
-
+import stage2 from '../assets/stages/Carved-crystal-2.jpg'
+import stage3 from '../assets/stages/Carved-crystal-3.jpg'
+import stage4 from '../assets/stages/Carved-crystal-4.jpg'
 import stage5 from '../assets/stages/Cast-iron-1.jpg'
 import stage6 from '../assets/stages/Cast-iron-2.jpg'
 import stage7 from '../assets/stages/Crystal-1.jpg'
@@ -42,21 +42,22 @@ export const StagesData = [
         image: stage1,
         title: "Carved crystal 1",
     },
-    // {
-    //     id: 'stage2',
-    //     image: stage2,
-    //     title: "Carved crystal 2",
-    // },
-    // {
-    //     id: 'stage3',
-    //     image: stage3,
-    //     title: "Carved crystal 3",
-    // },
-    // {
-    //     id: 'stage4',
-    //     image: stage4,
-    //     title: "Slide 4",
-    // },
+    {
+        id: 'stage2',
+        image: stage2,
+        title: "Carved crystal 2",
+    },
+    {
+        id: 'stage3',
+        image: stage3,
+        title: "Carved crystal 3",
+    },
+    {
+        id: 'stage4',
+        image: stage4,
+        title: "Carved crystal 4",
+    },
+
     {
         id: 'stage5',
         image: stage5,

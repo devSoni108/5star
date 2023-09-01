@@ -4,7 +4,7 @@ import Drape3 from '../assets/drapings/Draping2.jpg'
 import Drape4 from '../assets/drapings/Draping3.jpg'
 
 
-import Drape7 from '../assets/drapings/Draping6.jpg'
+
 import Drape8 from '../assets/drapings/Draping7.jpg'
 import Drape9 from '../assets/drapings/Draping8.jpg'
 import Drape10 from '../assets/drapings/Draping9.jpg'
@@ -12,7 +12,7 @@ import Drape11 from '../assets/drapings/Draping10.jpg'
 import Drape12 from '../assets/drapings/Draping11.jpg'
 import Drape13 from '../assets/drapings/Draping12.jpg'
 
-import Drape15 from '../assets/drapings/Draping14.jpg'
+
 import Drape16 from '../assets/drapings/Draping15.jpg'
 import Drape17 from '../assets/drapings/Draping16.jpg'
 import Drape18 from '../assets/drapings/Draping17.jpg'
@@ -59,11 +59,11 @@ export const DrapingData = [
     //     image: Drape6,
     //     title: "Draping 5",
     // },
-    {
-        id: 'Drape7',
-        image: Drape7,
-        title: "Draping 6",
-    },
+    // {
+    //     id: 'Drape7',
+    //     image: Drape7,
+    //     title: "Draping 6",
+    // },
     {
         id: 'Drape8',
         image: Drape8,
@@ -99,11 +99,11 @@ export const DrapingData = [
     //     image: Drape14,
     //     title: "Draping 13",
     // },
-    {
-        id: 'Drape15',
-        image: Drape15,
-        title: "Draping 14",
-    },
+    // {
+    //     id: 'Drape15',
+    //     image: Drape15,
+    //     title: "Draping 14",
+    // },
     {
         id: 'Drape16',
         image: Drape16,

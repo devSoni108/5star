@@ -9,12 +9,11 @@ import table8 from '../assets/table-settings/Black8.jpg'
 import table9 from '../assets/table-settings/3.jpg'
 import table10 from '../assets/table-settings/4.jpg'
 import table11 from '../assets/table-settings/5.jpg'
-import table12 from '../assets/table-settings/Black12.jpg'
-import table13 from '../assets/table-settings/Blue1.jpg'
-import table14 from '../assets/table-settings/Blue2.jpg'
+import table13 from '../assets/table-settings/6.jpg'
+import table14 from '../assets/table-settings/7.jpg'
 import table15 from '../assets/table-settings/Blue3.jpg'
-import table16 from '../assets/table-settings/Blue4.jpg'
-import table17 from '../assets/table-settings/Blue5.jpg'
+import table16 from '../assets/table-settings/8.jpg'
+import table17 from '../assets/table-settings/9.jpg'
 import table18 from '../assets/table-settings/Blue6.jpg'
 import table19 from '../assets/table-settings/Burgundy1.jpg'
 import table20 from '../assets/table-settings/Burgundy2.jpg'
@@ -132,11 +131,6 @@ export const TableSettingData = [
         id: 'table11',
         image: table11,
         title: "Black 11",
-    },
-    {
-        id: 'table12',
-        image: table12,
-        title: "Black 12",
     },
     {
         id: 'table13',

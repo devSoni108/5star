@@ -10,10 +10,10 @@ const Events = () => {
       </div>
 
       <div className="pt-6">
-        <div className="px-2 py-4 sm:flex justify-around items-center">
-          <div className="max-w-500">
-            <h3 className="text-3xl p-2">A personal touch to make your event truly memorable</h3>
-            <p className="text-xl p-2">We provide a complete range of event planning services that cater to all types of events, from weddings and birthdays to corporate events, geeths, nelungus, mehndi nights, and all kinds of parties.</p>
+        <div className="px-2 py-4 sm:flex justify-evenly items-center">
+          <div className="max-w-xl">
+            <h3 className="text-3xl p-2 pb-4">A personal touch to make your event truly memorable</h3>
+            <p className="text-xl p-2 pb-4">We provide a complete range of event planning services that cater to all types of events, from weddings and birthdays to corporate events, geeths, nelungus, mehndi nights, and all kinds of parties.</p>
             <div className='py-4'>
               <a href="/gallery" className="border-solid border-stone-900 border-2 rounded-md p-2">View Gallery</a>
             </div>

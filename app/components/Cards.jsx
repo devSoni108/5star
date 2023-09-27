@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import Gold from '../assets/home/gold-1.jpg'
-import Lights from '../assets/home/fairy-lights.jpg'
-import Hire from '../assets/home/for-hire.jpg'
+import Gold from '../assets/home/1.jpg'
+import Lights from '../assets/home/2.jpg'
+import Hire from '../assets/home/3.jpg'
 
 const Cards = () => {
   return (

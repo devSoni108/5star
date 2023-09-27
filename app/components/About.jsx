@@ -9,7 +9,7 @@ const About = () => {
                 <div className="h-0.5 w-1/4 bg-pink-300"/>
             </div>
         <div className='sm:flex justify-between items-center p-8'>
-            <div className='max-w-370'>
+            <div className='max-w-xl'>
                 <p>
                 We are a décor and events, family run business and have been planning events and special occasions for over 15 years.
                 <br/>

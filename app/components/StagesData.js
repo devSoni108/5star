@@ -31,8 +31,7 @@ import stage31 from '../assets/stages/white-pearl-6.jpg'
 import stage32 from '../assets/stages/white-pearl-7.jpg'
 import stage33 from '../assets/stages/white-pearl-8.jpg'
 import stage34 from '../assets/stages/white-pearl-9.jpg'
-import stage35 from '../assets/stages/white-pearl-10.jpg'
-import stage36 from '../assets/stages/window-1.jpg'
+import stage36 from '../assets/stages/6.jpg'
 import stage37 from '../assets/stages/window-2.jpg'
 
 export const StagesData = [
@@ -201,11 +200,6 @@ export const StagesData = [
         id: 'stage1',
         image: stage34,
         title: "White pearl 9",
-    },
-    {
-        id: 'stage1',
-        image: stage35,
-        title: "White pearl 10",
     },
     {
         id: 'stage1',

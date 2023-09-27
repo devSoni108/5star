@@ -38,7 +38,7 @@ import center38 from '../assets/centrepieces/Silver-vase.jpg'
 import center39 from '../assets/centrepieces/19.jpg'
 import center40 from '../assets/centrepieces/20.jpg'
 import center41 from '../assets/centrepieces/Tree.jpg'
-import center42 from '../assets/centrepieces/Trumpet1.jpg'
+import center42 from '../assets/centrepieces/21.jpg'
 import center43 from '../assets/centrepieces/Trumpet2.jpg'
 
 export const CenterpiecesData = [

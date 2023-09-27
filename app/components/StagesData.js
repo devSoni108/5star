@@ -1,7 +1,7 @@
 import stage1 from '../assets/stages/Carved-crystal-1.jpg'
 import stage2 from '../assets/stages/Carved-crystal-2.jpg'
 import stage3 from '../assets/stages/Carved-crystal-3.jpg'
-import stage4 from '../assets/stages/Carved-crystal-4.png'
+import stage4 from '../assets/stages/1'
 import stage5 from '../assets/stages/Cast-iron-1.jpg'
 import stage6 from '../assets/stages/Cast-iron-2.jpg'
 import stage7 from '../assets/stages/Crystal-1.jpg'
@@ -11,7 +11,6 @@ import stage10 from '../assets/stages/Crystal 4.jpg'
 import stage11 from '../assets/stages/Diamond-1.jpg'
 import stage12 from '../assets/stages/Diamond-2.jpg'
 import stage13 from '../assets/stages/Diamond-3.jpg'
-import stage14 from '../assets/stages/Diamond 4.jpg'
 import stage15 from '../assets/stages/Diamond-5.jpg'
 import stage16 from '../assets/stages/Gold-1.jpg'
 import stage17 from '../assets/stages/Gold-2.jpg'
@@ -102,11 +101,6 @@ export const StagesData = [
         id: 'stage13',
         image: stage13,
         title: "Diamond 3",
-    },
-    {
-        id: 'stage14',
-        image: stage14,
-        title: "Diamond 4",
     },
     {
         id: 'stage15',

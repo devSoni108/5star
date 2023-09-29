@@ -20,8 +20,9 @@ const TableSetting = () => {
   };
 
   return (
-    <div className='pb-12'>
-      <div className='relative px-8 py-20 w-full h-[full] overflow-hidden'>
+    <div className='py-12 bg-gray-950 text-gray-100'>
+      <div className='relative px-8 pb-20 w-full h-[full] overflow-hidden'>
+        <h4 className='text-left text-3xl py-8'>Table Settings</h4>
         <div className='flex'>
           {TableSettingData.slice(current, current + imagesPerPage).map((tablesetting, index) => (
             <div
@@ -38,14 +39,14 @@ const TableSetting = () => {
         <div className="absolute pt-8">
             <IoIosArrowDropleft
                 onClick={prevSlide}
-                className='text-black/70 cursor-pointer select-none'
+                className='cursor-pointer select-none'
                 size={45}
             />
         </div>
         <div className="absolute pt-8 left-20">
             <IoIosArrowDropright
                 onClick={nextSlide}
-                className='text-black/70 cursor-pointer select-none'
+                className='cursor-pointer select-none'
                 size={45}
             />
         </div>

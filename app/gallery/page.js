@@ -7,8 +7,8 @@ import Footer from '../components/Footer'
 
 const gallery = () => {
   return (
-    <div className="p-5 text-black z-[2] text-center">
-      <div className="p-5 bg-black">
+    <div className="p-5 text-black z-[2] text-center bg-gray-100">
+      <div className="p-5">
         <Navbar />
       </div>
       <h1 className="pt-5 text-7xl">Have a look at our gallery</h1>

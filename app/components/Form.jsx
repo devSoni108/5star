@@ -2,7 +2,7 @@ const Form = () => {
 
     return (
       <div>
-        <div className="rounded-lg isolate bg-white">
+        <div className="rounded-lg isolate">
           <form name='contact' method="post" data-netlify='true' className="">
             <input type="hidden" name="form-name" value="contact" />
             <div className="">

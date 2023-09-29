@@ -11,7 +11,7 @@ const CTA = () => {
   });
 
   return (
-    <div className='p-4 md:py-8 md:px-32'>
+    <div className='p-4 md:py-8 md:px-32 bg-gray-100'>
       <div className='text-center py-8'>
         <h2 className='text-5xl p-4'>Get in touch with us</h2>
         <div className="h-0.5 mx-auto w-1/2 bg-pink-300" />
@@ -30,7 +30,7 @@ const CTA = () => {
           </ul>
         </div>
         
-        <div className='flex-1'> {/* Updated */}
+        <div className='flex-1 pb-8'> {/* Updated */}
           <Form />
         </div>
         

@@ -20,8 +20,9 @@ const Stages = () => {
   };
 
   return (
-    <div className='pb-12'>
-      <div className='relative px-8 py-20 w-full h-[full] overflow-hidden'>
+    <div className='bg-gray-950 text-gray-100'>
+      <div className='relative px-8 pb-20 w-full h-[full] overflow-hidden'>
+        <h4 className='text-left text-3xl py-8'>Stages</h4>
         <div className='flex'>
           {StagesData.slice(current, current + imagesPerPage).map((stage, index) => (
             <div
@@ -38,14 +39,14 @@ const Stages = () => {
         <div className="absolute pt-8">
             <IoIosArrowDropleft
                 onClick={prevSlide}
-                className='text-black/70 cursor-pointer select-none'
+                className='cursor-pointer select-none'
                 size={45}
             />
         </div>
         <div className="absolute pt-8 left-20">
             <IoIosArrowDropright
                 onClick={nextSlide}
-                className='text-black/70 cursor-pointer select-none'
+                className='cursor-pointer select-none'
                 size={45}
             />
         </div>

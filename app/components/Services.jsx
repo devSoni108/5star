@@ -1,17 +1,17 @@
 const Services = () => {
     return (
-        <div className="p-8 sm:py-16 sm:px-48">
+        <div className="p-8 sm:py-16 sm:px-48 bg-gray-100 text-gray-900">
             <div className="flex flex-col items-left">
-                <h2 className="text-3xl text-left py-4">Our Offering</h2>
-                <div className="h-0.5 w-1/4 bg-pink-300" />
+                <h2 className="text-3xl text-left py-4 font-semibold">Our Offering</h2>
+                <div className="h-0.5 w-48 bg-pink-300"/>
             </div>
             <div className='sm:flex text-left justify-between'>
                 <div className="py-8">
                     <div className='flex flex-col items-left'>
-                        <h3 className="text-xl">For Hire</h3>
-                        <div className="h-0.5 w-1/2 bg-pink-300"/>
+                        <h3 className="text-xl font-semibold">For Hire</h3>
+                        <div className="h-0.5 w-20 bg-pink-300"/>
                     </div>
-                    <div className="p-4">
+                    <div className="p-4 text-lg">
                         <li>Centerpieces</li>
                         <li>Bridal furniture</li>
                         <li>Pillars & mandaps</li>
@@ -26,10 +26,10 @@ const Services = () => {
                 </div>
                 <div className="py-8">
                     <div className='flex flex-col items-left'>
-                        <h3 className="text-xl">Services</h3>
-                        <div className="h-0.5 w-1/2 bg-pink-300"/>
+                        <h3 className="text-xl font-semibold">Services</h3>
+                        <div className="h-0.5 w-24 bg-pink-300"/>
                     </div>
-                    <div className="p-4">
+                    <div className="p-4 text-lg">
                         <li>Catering</li>
                         <li>Fairy lights</li>
                         <li>Venue decorating</li>
